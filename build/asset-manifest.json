@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c825a5b.chunk.css",
+    "main.js": "/static/js/main.2d747e40.chunk.js",
+    "main.js.map": "/static/js/main.2d747e40.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.786b8bbc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.786b8bbc.js.map",
+    "static/js/2.05422bb0.chunk.js": "/static/js/2.05422bb0.chunk.js",
+    "static/js/2.05422bb0.chunk.js.map": "/static/js/2.05422bb0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2f46b4ee775d1f9ff48f2761d2b5a34.js": "/precache-manifest.a2f46b4ee775d1f9ff48f2761d2b5a34.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3c825a5b.chunk.css.map": "/static/css/main.3c825a5b.chunk.css.map",
+    "static/js/2.05422bb0.chunk.js.LICENSE.txt": "/static/js/2.05422bb0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.feda6780.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.786b8bbc.js",
+    "static/js/2.05422bb0.chunk.js",
+    "static/css/main.3c825a5b.chunk.css",
+    "static/js/main.2d747e40.chunk.js"
+  ]
+}
